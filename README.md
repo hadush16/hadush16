@@ -12,7 +12,7 @@ I'm currently diving deeper into mobile app development with **Flutter** and **R
 If you're working on a project related to **mobile app development**, **digital marketing strategies**, or **general software development**, I would love to collaborate with you! Feel free to reach out if you’re looking for help, ideas, or just want to discuss new technologies.
 
 ## 📫 How to reach me...
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+- [LinkedIn] your-linkedin-profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 - Email: belay12162119@gmail.com
 
 ---
